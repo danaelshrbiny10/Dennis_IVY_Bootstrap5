@@ -1,0 +1,7 @@
+.navbar-light .navbar-brand {
+    color: #e9ecef;
+} 
+.card{box-shadow: 20px 14px 17px -1px rgba(99,98,99,1);}
+
+.card:hover{box-shadow: 20px 22px 20px -1px rgba(43,42,43,1);}
+.title {font-size: large; font-style:large; font-family:unset; margin:midlle; text-align:center}
